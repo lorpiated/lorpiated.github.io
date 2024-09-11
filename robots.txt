@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lorpiated.github.io/sitemap.html.gz
+Sitemap: https://lorpiated.github.io/app/sitemap.html.gz
+Sitemap: https://lorpiated.github.io/assets/sitemap.html.gz
+Sitemap: https://lorpiated.github.io/css/sitemap.html.gz
+Sitemap: https://lorpiated.github.io/includes/sitemap.html.gz
+Sitemap: https://lorpiated.github.io/item/sitemap.html.gz
+Sitemap: https://lorpiated.github.io/src/sitemap.html.gz
